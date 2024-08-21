@@ -1,0 +1,1 @@
+This is solving Sliding puzzle using pathfinding. In this project Java is being utilized to implement the A* serch algorithm aimed a.t finding the shortest path in the game like map. This cover takes ranging from setting up a data structure to parsing inp.ut files and providing step by step solution. 
